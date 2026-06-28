@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Poorvika 👋<br>I'm a 3rd year B.E. Computer Science student passionate about building technology that solves real-world problems.<br>💡 I enjoy exploring areas like Machine Learning, Artificial Intelligence, and Web Development, and I love turning ideas into working applications.<br>🎯 Goal:<br>To grow by building impactful projects and continuously learning new technologies.
+Hi, I'm Poorvika 👋<br>I'm a 4th year B.E. Computer Science student passionate about building technology that solves real-world problems.<br>💡 I enjoy exploring areas like Machine Learning, Artificial Intelligence, and Web Development, and I love turning ideas into working applications.<br>🎯 Goal:<br>To grow by building impactful projects and continuously learning new technologies.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/poorviii_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Poorvika H R) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poorvikapoorvi1256@gmail.com) 
